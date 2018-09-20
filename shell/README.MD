@@ -33,3 +33,6 @@ cmd_pipe:
 
 change_dir:
 	This program was made to help change directories, the cmd_1 could not change directories so I read the man on the changdir and online sources.It tries to find the path and returns and error if the the path was not found.
+	
+	\
+I'm pretty sure I could have combined the all three of my main functions into one, I was not able to finish the piping correctly. I think it works by adding additional if statements. Those statements would be deciding if an file needed to be open or if the list from the commands needed to be doing a sinlge command or a pipe.

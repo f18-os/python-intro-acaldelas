@@ -8,7 +8,7 @@ Your shell must terminate when it reaches an EOF, otherwise it will hang in the 
 
 If the PS1 environment variable is set, your shell should use its value as its prompt instead of "$ ".
 
-
+______________________________________________________________________________________________________________
 
 This program works by starting a while loop, begins a prompt for the user '$ '.
 The user will enter a command:
@@ -16,9 +16,7 @@ The user will enter a command:
 '$ ls' -will display contents in current directory
 '$ CTRL-D' - the EOF that will exit the program: CTRL-D is the EOF
 '$ exit' - The initial while loop asking for the prompts will find this with the list and just exit immediately
-'$ wc osShell.py > text.txt' - will redirect the word count into a file called text.txt, if it already exists then it will continue writing
-
-that will be evauluated for 3 different functions
+'$ wc osShell.py > text.txt' - will redirect the word count into a file called text.txt, if it already exists then it will continue writing that will be evauluated for 3 different functions
 
 cmd_1:
 	Will create a fork first the check if it worked correctly then attempt exec the program

@@ -1,4 +1,4 @@
-I worked with WIll Fiddler with understanding piping and helped with him with redirecting and simple commands, and my friend Phillip Tennen helped me with understanding OS commands
+I worked with WIll Fidler with understanding piping and helped with him with redirecting and simple commands, and my friend Phillip Tennen helped me with understanding OS commands
 
 I used these sources:
 
